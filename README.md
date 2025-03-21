@@ -34,7 +34,7 @@ To run the inference code run the following line of python code
 
 ```python test_v2.py --input_dir [path to the inference images] --result_dir [where to save the predicted images, default: results] --blur_weights checkpoints/net_g_blur_removal.pth --drop_weights checkpoints/net_g_drop_removal.pth --dataset RainDrop_removal```
 
-Output images will be saved in ``` results/model_name/dataset_name/``` folder.
+Output images will be saved in ``` results/dataset_name/``` folder.
 
 ---
 
