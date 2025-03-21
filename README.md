@@ -26,7 +26,7 @@ The contents of this repository are as follows:
 
 The checkpoints are available at: https://drive.google.com/file/d/10n_SiRSxjgog4nQY2ldktmQKCpM_Ezsg/view?usp=sharing
 
-Download the checkpoints, uncompressed it and keep them in the `checkpoins` directory
+Download the checkpoints, uncompressed it and keep them in the `checkpoints` directory
 
 Before running the inference, use `python setup.py develop --no_cuda_ext` to setup the modified basicsr for this particular project.
 
